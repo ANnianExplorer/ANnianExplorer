@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 安年探索者 · ANnianExplorer
+# ANnianExplorer
 
 <div align="center">
 
