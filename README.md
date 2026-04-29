@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/github/followers/ANnianExplorer?style=flat-square" />
 <img src="https://img.shields.io/github/stars/ANnianExplorer?style=flat-square" />
 </div>
+<br/><br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-16a34a?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -19,8 +20,8 @@
 <img src="https://img.shields.io/badge/Redis-dc2626?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2563eb?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 <br/><br/>
+<img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Agent-9333ea?style=for-the-badge" />
 <br/><br/>
