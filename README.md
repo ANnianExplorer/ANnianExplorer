@@ -32,13 +32,6 @@
 <img src="https://img.shields.io/badge/Trae-ef4444?style=for-the-badge" />
 </div>
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ANnianExplorer&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANnianExplorer&layout=compact&hide_border=true&theme=transparent" />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ANnianExplorer&hide_border=true&theme=transparent" />
-</div>
-<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 </div>
